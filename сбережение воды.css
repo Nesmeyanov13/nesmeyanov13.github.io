@@ -1,0 +1,41 @@
+#misait{
+    width: 1565px;
+    height: 1360px;
+}
+#headp{
+    width: 1565px;
+    height: 60px;
+    text-align: center;
+    outline: 10px inset #C0C0C0;
+}
+#onep{
+    width: 1565px;
+    height: 60px;
+    text-align: center;
+    outline: 10px inset #C0C0C0;
+}
+#one{
+    width: 1565px;
+    height: 100px;
+    outline: 10px inset #C0C0C0;
+    text-align: center;
+    padding: 10px;
+}
+#twop{
+     width: 1565px;
+     height: 60px;
+     text-align: center;
+     outline: 10px inset #C0C0C0;
+}
+#two{
+     width: 1565px;
+     height: 790px;
+     outline: 10px inset #C0C0C0;
+     text-align: center;
+     padding: 20px;  
+}
+body{
+	background-image: url(https://wallbox.ru/resize/1600x1200/wallpapers/main/201127/9bc68e8005ed71e1b1ffc47c88ee29c9.jpg);
+	color: #000000;
+	height: 1010px;
+}
